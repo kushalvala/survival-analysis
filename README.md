@@ -36,6 +36,7 @@ To check if there is similarity between two survival probability functions, we u
 Results of Log Rank Test:
 
 p-value : 0.7745 ( > 0.05 )
+
 p-value is much greater than the set alpha value. 
 We cannot discard the Null Hypothesis i.e both the survival graphs are similar.
 
