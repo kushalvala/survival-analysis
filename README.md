@@ -23,6 +23,7 @@ KM Plot for all patients:
 ![KM Plot](https://github.com/kushalvala/survival-analysis/blob/master/figures/KMPlot.png)
 
 Median Survival Time : 719 days
+
 Confidence Interval of 95% : [685, 793] days
 
 
