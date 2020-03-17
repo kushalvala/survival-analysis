@@ -8,10 +8,16 @@ Survival Analysis can be used to explore relations between factors of interest a
 
 ## Data:
 
+1. Heart Disease Dataset:
+
 The dataset consist's of 1000 patients which were observed in the hospital post having a cardiac arrest. 
 There are 31 features which were monitored for a patient. 
 
 ## Kaplan Meier Plot
+
+Survival Time: Follow Up Time i.e Time Since Admission in Hospital (in days)
+Event: Death
+
 
 
 
