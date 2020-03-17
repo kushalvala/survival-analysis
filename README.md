@@ -18,7 +18,12 @@ There are 31 features which were monitored for a patient.
 Survival Time: Follow Up Time i.e Time Since Admission in Hospital (in days) 
 Event: Death of Patient 
 
+KM Plot for all patients:
 
+![KM Plot](https://github.com/kushalvala/survival-analysis/blob/master/figures/KMPlot.png)
+
+Median Survival Time : 719 days
+Confidence Interval of 95% : [685, 793] days
 
 
 
