@@ -15,8 +15,10 @@ There are 31 features which were monitored for a patient.
 
 ### Kaplan Meier Plot (KM Plot)
 
-Survival Time: Follow Up Time i.e Time Since Admission in Hospital (in days). 
-Event: Death
+Survival Time: Follow Up Time i.e Time Since Admission in Hospital (in days) 
+Event: Death of Patient 
+
+
 
 
 
