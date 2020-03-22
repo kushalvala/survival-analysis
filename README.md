@@ -41,6 +41,18 @@ p-value is much greater than the set alpha value.
 We cannot discard the Null Hypothesis i.e both the survival graphs are similar.
 
 
+### Cox Proportional Hazard Model (CoxPH Model)
+
+This method is also called Survival Regression, which mathematically models the survival time along with other confounding variables, and outputs the hazard ratio's.
+The advantage this method holds over the KM Plot is that we can regress multiple variable as compared to building a univariate analysis.
+
+Here we built a model with a our earlier problem statement, where we are adding two confounding variables:
+  1. Ethnic Group
+  2. Gender
+
+We are interested to see if there is a relation between this variables and the event ( ~ death ) 
+
+
 
 
 
