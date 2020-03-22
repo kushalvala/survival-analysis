@@ -61,8 +61,10 @@ Below is the plot:
 We can clearly see that hazard ratio for ethnic group-3 is 0.33 which is lower than baseline, and we can conclude that the patients belonging to that group has lower risk of the event being occured in their case.
 
 
+CoxPH Model also outputs a baseline Survival Curve (similar to KM Plot) but this one outputs a spline rather than a step curve.
 
 
+![Plot](https://github.com/kushalvala/survival-analysis/blob/master/figures/Cox-Survival.png)
 
 
 
