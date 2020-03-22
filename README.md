@@ -52,6 +52,16 @@ Here we built a model with a our earlier problem statement, where we are adding 
 
 We are interested to see if there is a relation between this variables and the event ( ~ death ) 
 
+Summary Statistic of CoxPH Model is very similar to that of a typical Regression plot. Only difference is it outputs a Hazard Ratio, which gives us the measure of how critical that particular element is for a given event.
+
+Below is the plot:
+
+![Summary](https://github.com/kushalvala/survival-analysis/blob/master/figures/CoxPH%20Analysis.png)
+
+We can clearly see that hazard ratio for ethnic group-3 is 0.33 which is lower than baseline, and we can conclude that the patients belonging to that group has lower risk of the event being occured in their case.
+
+
+
 
 
 
